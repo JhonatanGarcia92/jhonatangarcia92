@@ -4,7 +4,7 @@
 
 I'm a software Developer and passionate about helping companies achieve more and more results.
 
-💬 I'v 28 years old (2020)
+💬 I'v 29 years old (2021)
 😄 I'm married and I'v two children.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JhonatanGarcia92/jhonatangarcia92)](https://github.com/JhonatanGarcia92/jhonatangarcia92)
@@ -20,7 +20,6 @@ I'm a software Developer and passionate about helping companies achieve more and
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
-- ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
 - ![VueJS](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
 - ![Angular](https://img.shields.io/badge/-Angular-c43230?style=flat-square&logo=angular&logoColor=white)
@@ -46,6 +45,8 @@ I'm a software Developer and passionate about helping companies achieve more and
 - ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
 ### Tools/Idea Technologies:
+- ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+- ![yarn](https://img.shields.io/badge/-YARN-0000ff?style=flat-square&logo=yarn&logoColor=white)
 - ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
 - ![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
 - ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
