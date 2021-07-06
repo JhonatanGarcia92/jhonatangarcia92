@@ -4,11 +4,13 @@
 
 I'm a software Developer and passionate about helping companies achieve more and more results.
 
+I share content on my Instagram for people who want to know about IT, follow me there 😄
+
 💬 I'v 29 years old (2021)
 😄 I'm married and I'v two children.
-
+[![Github Badge](https://img.shields.io/badge/-Instagram-fff?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/jhonatangarcia.developer/)](https://www.instagram.com/jhonatangarcia.developer/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JhonatanGarcia92/jhonatangarcia92)](https://github.com/JhonatanGarcia92/jhonatangarcia92)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatangarcia92/)](https://www.linkedin.com/in/jhonatangarcia92/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatangarcia/)](https://www.linkedin.com/in/jhonatangarcia92/)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/jhonatangarcia92)](https://dev.to/jhonatangarcia92)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)](https://api.whatsapp.com/send?phone=5544999190322&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhonatan.henrique.garcia@gmail.com)](mailto:jhonatan.henrique.garcia@gmail.com)
