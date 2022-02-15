@@ -2,15 +2,19 @@
 
 # :man_technologist: Jhonatan Garcia
 
+<img align="right" src="https://user-images.githubusercontent.com/5420529/106176188-ffbafb00-6164-11eb-9cda-61940e99ee1c.png" min-width="400px" max-width="400px" width="400px" alt="Image">
+
+<p align="left">
 Access my Linkedin or Instagram, you know more about me.😄
 
 My current study at the moment is AWS Specialist, Advanced English and my goal for the year is to become a Software Architect and Cloud Architect
 
+</p>
+
 [![Github Badge](https://img.shields.io/badge/-Instagram-fff?style=for-the-badge&logo=Instagram&logoColor=red&link=https://www.instagram.com/jhonatangarcia.developer/)](https://www.instagram.com/jhonatangarcia.developer/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/JhonatanGarcia92/jhonatangarcia92)](https://github.com/JhonatanGarcia92/jhonatangarcia92)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatangarcia/)](https://www.linkedin.com/in/jhonatangarcia92/)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/jhonatangarcia92)](https://dev.to/jhonatangarcia92)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)](https://api.whatsapp.com/send?phone=5544999190322&text=Olá!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)](https://api.whatsapp.com/send?phone=5544999190322&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jhonatan.henrique.garcia@gmail.com)](mailto:jhonatan.henrique.garcia@gmail.com)
 
 
@@ -30,7 +34,7 @@ My current study at the moment is AWS Specialist, Advanced English and my goal f
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Databases Technologies:
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?sstyle=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-1a0dab?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-ff2d20?style=for-the-badge&logo=redis&logoColor=white)
