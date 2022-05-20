@@ -7,8 +7,6 @@
 <p align="left">
 Access my Linkedin or Instagram, you know more about me.😄
 
-My current study at the moment is AWS Specialist, Advanced English and my goal for the year is to become a Software Architect and Cloud Architect
-
 </p>
 
 [![Github Badge](https://img.shields.io/badge/-Instagram-fff?style=for-the-badge&logo=Instagram&logoColor=red&link=https://www.instagram.com/jhonatangarcia.developer/)](https://www.instagram.com/jhonatangarcia.developer/)
@@ -20,12 +18,10 @@ My current study at the moment is AWS Specialist, Advanced English and my goal f
 
 🔭 Skills:
 
-### Front-End Technologies:
+### Front-End and Back-End Technologies:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-### Back-End Technologies:
 ![PHP](https://img.shields.io/badge/-Php-609?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -47,7 +43,6 @@ My current study at the moment is AWS Specialist, Advanced English and my goal f
 ### Devops/Tools Technologies:
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
