@@ -2,7 +2,9 @@
 
 # :man_technologist: Jhonatan Garcia
 
-<img align="right" src="https://user-images.githubusercontent.com/5420529/106176188-ffbafb00-6164-11eb-9cda-61940e99ee1c.png" min-width="400px" max-width="400px" width="400px" alt="Image">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JhonatanGarcia92&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatanGarcia92&count_private=true&show_icons=true&theme=dark)
+
 
 <p align="left">
 Access my Linkedin or Instagram, you know more about me.😄
